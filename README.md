@@ -1,2 +1,2 @@
-# ARIMA-Auto-Parameterization
-Using machine learning methods to autonomously determine optimal parameters for the ARIMA model
+# ARMA-Auto-Parameterization
+Testing the use of NN, CNN, and Tree Based Models to autonomously determine the AR and MA components of a give time series.
